@@ -1,0 +1,6 @@
+{
+  "name": "Nagomi 3D Koi Pond (和み)",
+  "description": "Interactive 3D Koi Pool simulation combining procedural koi fish, realistic water caustics, seasonal weather, feeding interaction, and relaxing ambient audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
